@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.margin {
+  margin-left: 25px;
+}
+
+.border {
+  border: 3px solid black;
+  width:300px;
+  padding:20px;
+}
+
+.redtxt {
+  color:red;
+}
